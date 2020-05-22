@@ -9,6 +9,7 @@ public class MAIN {
 			System.out.println("Hola Mario");
 		}
 
+		System.out.println("#broLove #noHomo");
 		thisIsANewMethod();
 	}
 	
