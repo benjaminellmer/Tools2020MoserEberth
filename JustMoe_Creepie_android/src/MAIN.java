@@ -25,7 +25,13 @@ public class MAIN {
 		System.out.println("3");
 		
 		System.out.println("Free like a bird in a box in a dark room ");
+
 		System.out.println("iam hangry, give me some chicky nuggys");
+
+
+		System.out.println("whup whup bug is fixed");
+		
+
 	}
 	
 	
