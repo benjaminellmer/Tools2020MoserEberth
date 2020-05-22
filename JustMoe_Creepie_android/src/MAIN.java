@@ -12,6 +12,15 @@ public class MAIN {
 	}
 	
 	public void thisIsANewMethod() { 
+		System.out.print("c");
+		
+		//make x bigger, makes everything bigger
+		int x = 4;
+		
+		for(int i=0;i<x;i++) {
+			System.out.print("=");
+		}
+		System.out.print("3");
 		
 	}
 
