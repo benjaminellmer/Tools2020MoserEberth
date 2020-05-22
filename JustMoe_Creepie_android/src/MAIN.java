@@ -8,19 +8,23 @@ public class MAIN {
 		for (int i=0;i<10;i++) {
 			System.out.println("Hola Mario");
 		}
-		
+
+		thisIsANewMethod();
 	}
 	
-	public void thisIsANewMethod() { 
+	public static void thisIsANewMethod() { 
 		System.out.print("c");
 		
 		//make x bigger, makes everything bigger
-		int x = 4;
+		int x = 5;
 		
 		for(int i=0;i<x;i++) {
 			System.out.print("=");
 		}
-		System.out.print("3");
+		System.out.println("3");
+		
+		System.out.println("Free like a bird in a box in a dark room ");
+
 		
 	}
 
