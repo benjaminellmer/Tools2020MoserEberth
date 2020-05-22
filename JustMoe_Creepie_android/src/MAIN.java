@@ -25,6 +25,7 @@ public class MAIN {
 		
 		System.out.println("Free like a bird in a box in a dark room ");
 
+		System.out.println("whup whup bug is fixed");
 		
 	}
 
